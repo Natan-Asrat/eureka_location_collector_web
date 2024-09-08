@@ -34,7 +34,25 @@ With our app, you can quickly collect and save your locations as you move around
       </div>
 
       <!-- Screenshots Section (Right Column) -->
-      
+      <div class="col-md-6">
+      <div class="row">
+          <div class="col-12 mb-4 justify-content-between screenshots">
+            <img src="/new_location_collector_file_mockup.png" alt="Screenshot 1" class="img-fluid screenshot screenshot-t"/>
+            <img src="/save_location_mockup.png" alt="Screenshot 2" class="img-fluid screenshot screenshot-b" />
+          </div>
+        </div>
+        <div class="row">
+        <div class="col-12 mb-4 justify-content-between screenshots">
+            <img src="/saved_file_mockup.png" alt="Screenshot 3" class="img-fluid screenshot-w screenshot-t"/>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12 mb-4 justify-content-between screenshots">
+            <img src="/visualize_locations_mockup.png" alt="Screenshot 1" class="img-fluid screenshot screenshot-t"/>
+            <img src="/direction_mockup.png" alt="Screenshot 2" class="img-fluid screenshot screenshot-b" />
+          </div>
+        </div>
+      </div>
       
     </div>
   </div>
